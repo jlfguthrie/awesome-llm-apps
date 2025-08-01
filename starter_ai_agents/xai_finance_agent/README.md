@@ -24,7 +24,7 @@ cd awesome-llm-apps/ai_agent_tutorials/xai_finance_agent
 pip install -r requirements.txt
 ```
 
-3. Get your OpenAI API Key
+3. Get your xAI API Key
 
 - Sign up for an [xAI API account](https://console.x.ai/)
 - Set your XAI_API_KEY environment variable.
